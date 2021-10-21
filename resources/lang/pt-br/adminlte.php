@@ -19,4 +19,8 @@ return [
     'password_reset_message'      => 'Recuperar senha',
     'reset_password'              => 'Recuperar senha',
     'send_password_reset_link'    => 'Enviar link de recuperação de senha',
+    'Plans'                       => 'Planos',
+    'Name'                        => 'Nome',
+    'Price'                       => 'Preço',
+    'Actions'                     => 'Ações',
 ];

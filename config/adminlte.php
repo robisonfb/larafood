@@ -235,6 +235,15 @@ return [
             'type'         => 'fullscreen-widget',
             'topnav_right' => true,
         ],
+        [
+            'text'        => 'Planos',
+            'url'         => 'admin/plans',
+            'icon'        => 'far fa-fw fa-file',
+        ],
+
+/*
+
+
 
         // Sidebar items:
         [
@@ -318,7 +327,9 @@ return [
             'icon_color' => 'cyan',
             'url'        => '#',
         ],
+*/
     ],
+
 
     /*
     |--------------------------------------------------------------------------
